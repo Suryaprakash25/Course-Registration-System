@@ -1,6 +1,7 @@
 📘 Course Registration System – Project Description
 
-    The Course Registration System is a full-stack web application designed to allow users (students) to register for available courses. Built with a modern tech stack, the system features a responsive frontend and a robust backend that handles data persistence and business logic.
+    The Course Registration System is a full-stack web application designed to allow users (students) to register for available courses. 
+    Built with a modern tech stack, the system features a responsive frontend and a robust backend that handles data persistence and business logic.
 
 ✅ Key Features
 
